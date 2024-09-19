@@ -1,4 +1,5 @@
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+![image](https://github.com/user-attachments/assets/d003ff8e-eb7a-4ad8-8c76-9e2dc3232c1f)
+
 <h1 align="center">Hi 👋, My name is Michal Vrablic</h1>
 <h3 align="center">I am student at SPSE Zochova Bratislava</h3>
 
