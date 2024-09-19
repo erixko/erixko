@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/d003ff8e-eb7a-4ad8-8c76-9e2dc3232c1f)
-
+![1525403](https://github.com/user-attachments/assets/81bbbf0c-8d96-4f71-827b-08d3127bbcc6)
 <h1 align="center">Hi 👋, My name is Michal Vrablic</h1>
 <h3 align="center">I am student at SPSE Zochova Bratislava</h3>
 
