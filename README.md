@@ -1,5 +1,8 @@
-![1525403](https://github.com/user-attachments/assets/81bbbf0c-8d96-4f71-827b-08d3127bbcc6)
-<h1 align="center">Hi 👋, My name is Michal Vrablic</h1>
+
+![1525405](https://github.com/user-attachments/assets/40f320b9-aaa7-4990-bb64-aca0e810213b)
+
+
+<h1 align="center">Hi 👋, Myname is Michal Vrablic</h1>
 <h3 align="center">I am student at SPSE Zochova Bratislava</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erixko&label=Profile%20views&color=0e75b6&style=flat" alt="erixko" /> </p>
