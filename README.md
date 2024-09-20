@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/vrabliccrypto" target="blank"><img src="https://img.shields.io/twitter/follow/vrabliccrypto?logo=twitter&style=for-the-badge" alt="vrabliccrypto" /></a> </p>
 
-- 🔭 I’m currently working on **Self Improvement in Java**
+- 🔭 I’m currently working on **Self Improvement in JavaScript**
 
-- 🌱 I’m currently learning **Spring Boot , Swing , General Java**
+- 🌱 I’m currently learning **React JS , General JavaScript , ExpressJS**
 
 - 💬 Ask me about **Anything**
 
